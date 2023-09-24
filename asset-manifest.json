@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SYNC-Internship-ReactJs/static/css/main.5bf14d78.css",
+    "main.js": "/SYNC-Internship-ReactJs/static/js/main.1909f1ff.js",
+    "static/js/787.d62d1c65.chunk.js": "/SYNC-Internship-ReactJs/static/js/787.d62d1c65.chunk.js",
+    "index.html": "/SYNC-Internship-ReactJs/index.html",
+    "main.5bf14d78.css.map": "/SYNC-Internship-ReactJs/static/css/main.5bf14d78.css.map",
+    "main.1909f1ff.js.map": "/SYNC-Internship-ReactJs/static/js/main.1909f1ff.js.map",
+    "787.d62d1c65.chunk.js.map": "/SYNC-Internship-ReactJs/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf14d78.css",
+    "static/js/main.1909f1ff.js"
+  ]
+}
