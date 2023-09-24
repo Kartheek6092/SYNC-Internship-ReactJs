@@ -1,7 +1,7 @@
 {
   "name": "weatherapp",
   "version": "0.1.0",
-  "homepage": "https://Kartheek6092.github.io/SYNC-Internship-ReactJs",
+  "homepage": "https://kartheek6092.github.io/SYNC-Internship-ReactJs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
