@@ -1,0 +1,94 @@
+.homeContainer {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0a1628;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dzjuhiwxw/image/upload/v1695458113/31402104-vier-jahreszeiten-banner-mit-b%C3%A4umen-und-see-reflexion_owp6gn.jpg');
+}
+
+.weather-container {
+    min-width: 30vw;
+    min-height: 50vh;
+    background-color: #fafbfc7d;
+    border-radius: 15px;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+@media (max-width: 767px){
+    .weather-container{
+        width: 90%;
+        height: 90%;
+    }
+}
+
+.search-container {
+    width: 95%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3ffff;
+    border-radius: 5px;
+}
+
+.city-input, .country-input {
+    height: 100%;
+    width: 45%;
+    background-color: transparent;
+    border-style: none;
+    color: #000;
+    outline: none;
+    border-right: 2px solid #0c5063;
+}
+
+.search-icon {
+    color: #0c5063;
+    height: 100%;
+}
+
+.city-name {
+    font-size: xx-large;  
+    color: #060823;
+    font-weight: 800;
+} 
+
+p{
+    padding: 0px;
+    margin: 2px 0px;
+    text-align: left;
+    font-size: large;
+    font-weight: 700;
+}
+
+.how-is-weather{
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.error-msg {
+    color: red;
+    font-weight: 600;
+}
+
+.condition {
+    color: #171737;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.condition-status {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.other-details {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
